@@ -22,23 +22,11 @@
 
 ## 🌷 About Me
 
-Hello! I'm **Chamathka Shehani**, a Data Science undergraduate with an interest in software development, data analytics, and emerging technologies.
+Data Science undergraduate who loves turning ideas into code, and learning something new every day.
 
-- 🎓 Currently pursuing a **BSc in Data Science**.
-- 📜 Completed a **Higher Diploma in Computing & Software Engineering**.
-- 💻 Interested in web development, software engineering, and database management.
-- 📊 Exploring data analysis, data visualization, and machine learning.
-- 🤖 Learning about Artificial Intelligence and intelligent applications.
-- 🌱 Continuously improving my programming and problem-solving skills.
-- 🤝 Open to learning opportunities, collaboration, and connecting with fellow developers.
-
-### 🎯 2026 Goals
-
-- Strengthen my programming and software development fundamentals.
-- Build practical projects and improve my GitHub portfolio.
-- Develop my knowledge of Data Science and Machine Learning.
-- Explore modern web technologies and cloud platforms.
-- Contribute to collaborative and open-source projects.
+- 🎓 BSc in Data Science, Higher Diploma in Computing & Software Engineering
+- 💻 Web development, data analytics, and machine learning
+- 🌱 Building projects and growing one step at a time
 
 ---
 
@@ -62,6 +50,14 @@ Hello! I'm **Chamathka Shehani**, a Data Science undergraduate with an interest 
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </p>
 
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" alt="Development Tools" />
+</p>
+
+---
+
 ### 📊 Data Science & Analytics
 
 <p align="left">
@@ -69,13 +65,6 @@ Hello! I'm **Chamathka Shehani**, a Data Science undergraduate with an interest 
   <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
-### 🔧 Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" alt="Development Tools" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -95,33 +84,15 @@ I use projects to turn what I learn into practical experience.
 ---
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <i>A little progress every day adds up to big results.</i>
-</p>
-
 <div align="center">
 
-  <img
-    src="assets/github-stats.svg"
-    width="100%"
-    alt="GitHub Statistics"
-  />
+<img src="assets/github-stats.svg" width="100%" alt="GitHub Statistics" />
+
+<br/><br/>
+
+<img src="assets/top-languages.svg" width="100%" alt="Most Used Languages" />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="assets/top-languages.svg"
-    width="100%"
-    alt="Most Used Languages"
-  />
-
-</div>
-
-<br/>
 
 ### 🐍 Contribution Activity
 
