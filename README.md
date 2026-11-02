@@ -92,10 +92,8 @@ I use projects to turn what I learn into practical experience.
 
 **Explore my repositories:** [github.com/Chama2811](https://github.com/Chama2811?tab=repositories)
 
-
 ---
-
-<h2 align="center">📊 Github Statistics</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
   <i>A little progress every day adds up to big results.</i>
@@ -117,15 +115,23 @@ I use projects to turn what I learn into practical experience.
 
   <img
     src="assets/top-languages.svg"
-    width="49%"
+    width="100%"
     alt="Most Used Languages"
   />
 
-  <img
-    src="assets/contributions.svg"
-    width="49%"
-    alt="Contribution Activity"
-  />
+</div>
+
+<br/>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake.svg" width="100%" />
+  </picture>
 
 </div>
 
@@ -134,9 +140,6 @@ I use projects to turn what I learn into practical experience.
 <p align="center">
   <b>BUILDING • LEARNING • EXPLORING • GROWING</b>
 </p>
-
----
-
 
 ---
 
