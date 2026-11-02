@@ -108,20 +108,7 @@ I use projects to turn what I learn into practical experience.
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake.svg" width="100%" />
   </picture>
 </div>
-### 🐍 Contribution Activity
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake.svg" width="100%" />
-  </picture>
-
-</div>
-
 <br/>
-
 <p align="center">
   <b>BUILDING • LEARNING • EXPLORING • GROWING</b>
 </p>
