@@ -1,17 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-label="Most used languages">
-<rect width="100%" height="100%" rx="16" fill="#1b1b2f"/>
-<style>
-  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
-  .title { fill: #e6edf3; font-size: 21px; font-weight: 700; }
-  .muted { fill: #9da7b3; font-size: 12px; }
-  .value { font-size: 31px; font-weight: 700; }
-  .label { fill: #e6edf3; font-size: 13px; }
-</style>
+<svg
+  width="467"
+  height="195"
+  viewBox="0 0 467 195"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Most Used Languages"
+>
+  <style>
+    .header {
+      font: 700 17px 'Segoe UI', Ubuntu, -apple-system, sans-serif;
+      fill: #e879a9;
+    }
+    .lang-name {
+      font: 600 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif;
+      fill: #c9d1d9;
+    }
+    .lang-pct {
+      font: 600 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif;
+      fill: #8b949e;
+    }
+  </style>
 
-<text x="30" y="42" class="title">Most Used Languages</text>
-<rect x="30.00" y="70" width="700.00" height="15" fill="#e879a9"/>
-<circle cx="35" cy="121" r="5" fill="#e879a9"/>
-<text x="49" y="125" class="label">Python</text>
-<text x="355" y="125" text-anchor="end" class="muted">100.0%</text>
-<text x="30" y="282" class="muted">Based on language bytes across public repositories; not a measure of skill.</text>
+  <rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <text x="25" y="35" class="header">Most Used Languages</text>
+
+  <g transform="translate(25, 55)">
+    <rect width="417" height="10" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <rect width="417" height="10" rx="5" fill="#e879a9"/>
+  </g>
+
+  <g transform="translate(25, 90)">
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="5" fill="#e879a9"/>
+      <text x="20" y="10" class="lang-name">Python</text>
+      <text x="80" y="10" class="lang-pct">100.0%</text>
+    </g>
+
+    <g transform="translate(220, 0)">
+      <circle cx="6" cy="6" r="5" fill="#a78bfa"/>
+      <text x="20" y="10" class="lang-name">C# / .NET</text>
+      <text x="100" y="10" class="lang-pct">Learning</text>
+    </g>
+
+    <g transform="translate(0, 32)">
+      <circle cx="6" cy="6" r="5" fill="#79a8ff"/>
+      <text x="20" y="10" class="lang-name">SQL / DB</text>
+      <text x="80" y="10" class="lang-pct">Exploring</text>
+    </g>
+
+    <g transform="translate(220, 32)">
+      <circle cx="6" cy="6" r="5" fill="#43d9bd"/>
+      <text x="20" y="10" class="lang-name">JavaScript</text>
+      <text x="100" y="10" class="lang-pct">Practicing</text>
+    </g>
+  </g>
 </svg>

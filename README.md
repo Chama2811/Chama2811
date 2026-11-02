@@ -86,15 +86,42 @@ I believe in active learning through building hands-on projects across software 
 
 <div align="center">
 
-<img src="assets/github-stats.svg" width="100%" alt="GitHub Statistics" />
-
-<br/><br/>
-
-<img src="assets/top-languages.svg" width="100%" alt="Most Used Languages" />
+<img width="49%" src="./assets/github-stats.svg" alt="Chamathka's GitHub statistics" />
+<img width="49%" src="./assets/top-langs.svg" alt="Chamathka's most used languages" />
 
 </div>
 
-### 🐍 Contribution Activity
+### ⚡ Auto-Updating Repository Metrics
+
+<div align="center">
+
+<img src="./assets/profile-metrics.svg" alt="Chamathka's GitHub profile metrics" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="./assets/streak.svg" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="./assets/activity-graph.svg" alt="Chamathka's Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>

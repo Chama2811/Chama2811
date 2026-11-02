@@ -1,26 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-label="GitHub statistics">
-<rect width="100%" height="100%" rx="16" fill="#1b1b2f"/>
-<style>
-  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
-  .title { fill: #e6edf3; font-size: 21px; font-weight: 700; }
-  .muted { fill: #9da7b3; font-size: 12px; }
-  .value { font-size: 31px; font-weight: 700; }
-  .label { fill: #e6edf3; font-size: 13px; }
-</style>
+<svg
+  width="467"
+  height="195"
+  viewBox="0 0 467 195"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Chamathka Shehani's GitHub Stats"
+>
+  <style>
+    .header {
+      font: 700 17px 'Segoe UI', Ubuntu, -apple-system, sans-serif;
+      fill: #e879a9;
+    }
+    .stat-label {
+      font: 600 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif;
+      fill: #c9d1d9;
+    }
+    .stat-value {
+      font: 700 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif;
+      fill: #f0f6fc;
+    }
+    .icon {
+      fill: #e879a9;
+    }
+    .rank-circle-rim {
+      stroke: #30363d;
+      fill: none;
+      stroke-width: 6;
+      opacity: 0.6;
+    }
+    .rank-circle {
+      stroke: #e879a9;
+      stroke-dasharray: 250;
+      stroke-dashoffset: 80;
+      fill: none;
+      stroke-width: 6;
+      stroke-linecap: round;
+      transform-origin: 0px 0px;
+      transform: rotate(-90deg);
+    }
+  </style>
 
-<text x="30" y="42" class="title">GitHub Statistics</text>
-<text x="30" y="66" class="muted">@Chama2811 · Updated 02 Nov 2026 UTC</text>
-<rect x="30" y="88" width="165" height="125" rx="12" fill="#20243a" stroke="#30364d"/>
-<text x="46" y="143" class="value" fill="#e879a9">1</text>
-<text x="46" y="174" class="label">Public repositories</text>
-<rect x="215" y="88" width="165" height="125" rx="12" fill="#20243a" stroke="#30364d"/>
-<text x="231" y="143" class="value" fill="#79a8ff">0</text>
-<text x="231" y="174" class="label">Total stars</text>
-<rect x="400" y="88" width="165" height="125" rx="12" fill="#20243a" stroke="#30364d"/>
-<text x="416" y="143" class="value" fill="#43d9bd">0</text>
-<text x="416" y="174" class="label">Total forks</text>
-<rect x="585" y="88" width="165" height="125" rx="12" fill="#20243a" stroke="#30364d"/>
-<text x="601" y="143" class="value" fill="#a78bfa">6</text>
-<text x="601" y="174" class="label">Contributions this year</text>
-<text x="30" y="235" class="muted">Generated automatically with GitHub Actions</text>
+  <rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <text x="25" y="35" class="header">Chamathka Shehani's GitHub Stats</text>
+
+  <g transform="translate(25, 48)">
+    <g transform="translate(0, 16)">
+      <path class="icon" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z" transform="scale(0.85)"/>
+      <text x="22" y="11" class="stat-label">Total Stars Earned:</text>
+      <text x="175" y="11" class="stat-value">0</text>
+    </g>
+
+    <g transform="translate(0, 40)">
+      <path class="icon" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" transform="scale(0.85)"/>
+      <text x="22" y="11" class="stat-label">Total Commits:</text>
+      <text x="175" y="11" class="stat-value">29</text>
+    </g>
+
+    <g transform="translate(0, 64)">
+      <path class="icon" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.128a2.251 2.251 0 11-1.5 0V6a2.5 2.5 0 00-2.5-2.5h-1V2h1a2.5 2.5 0 012.5 2.5v.128a2.251 2.251 0 011.5 0V5a2.5 2.5 0 00-2.5-2.5z" transform="scale(0.85)"/>
+      <text x="22" y="11" class="stat-label">Total PRs:</text>
+      <text x="175" y="11" class="stat-value">0</text>
+    </g>
+
+    <g transform="translate(0, 88)">
+      <path class="icon" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z" transform="scale(0.85)"/>
+      <text x="22" y="11" class="stat-label">Total Issues:</text>
+      <text x="175" y="11" class="stat-value">0</text>
+    </g>
+
+    <g transform="translate(0, 112)">
+      <path class="icon" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5z" transform="scale(0.85)"/>
+      <text x="22" y="11" class="stat-label">Contributed to (last year):</text>
+      <text x="175" y="11" class="stat-value">0</text>
+    </g>
+  </g>
+
+  <g transform="translate(385, 110)">
+    <circle class="rank-circle-rim" cx="0" cy="0" r="38" />
+    <circle class="rank-circle" cx="0" cy="0" r="38" />
+    <path fill="#e879a9" transform="translate(-16, -17) scale(1.1)" d="M12 1.25C6.07 1.25 1.25 6.07 1.25 12c0 4.75 3.08 8.77 7.36 10.2.54.1.73-.23.73-.51v-1.81c-2.99.65-3.62-1.44-3.62-1.44-.49-1.24-1.2-1.57-1.2-1.57-.98-.67.07-.65.07-.65 1.08.08 1.65 1.11 1.65 1.11.96 1.65 2.52 1.17 3.13.9.1-.7.38-1.17.69-1.44-2.39-.27-4.9-1.2-4.9-5.32 0-1.18.42-2.14 1.11-2.9-.11-.27-.48-1.37.11-2.86 0 0 .9-.29 2.96 1.1a10.3 10.3 0 015.38 0c2.05-1.39 2.95-1.1 2.95-1.1.59 1.49.22 2.59.11 2.86.69.76 1.11 1.72 1.11 2.9 0 4.13-2.52 5.04-4.92 5.31.39.33.74.99.74 2v2.97c0 .29.19.62.74.51 4.27-1.44 7.34-5.46 7.34-10.2 0-5.93-4.82-10.75-10.75-10.75z"/>
+  </g>
 </svg>
