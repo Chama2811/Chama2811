@@ -82,35 +82,29 @@ I use projects to turn what I learn into practical experience.
 **Explore my repositories:** [github.com/Chama2811](https://github.com/Chama2811?tab=repositories)
 
 ---
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="assets/analytics.svg" width="100%" alt="GitHub Analytics" />
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Chama2811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chama2811&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### ⚡ Auto-Updating Repository Metrics
+#### ⚡ Auto-Updating Repository Metrics
 
-<div align="center">
-  <img src="assets/metrics.svg" width="100%" alt="Repository Metrics" />
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="assets/streak.svg" width="100%" alt="Contribution Streak" />
-</div>
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-<br/>
 <p align="center">
-  <b>BUILDING • LEARNING • EXPLORING • GROWING</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chama2811&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=false&hide_title=true&hide_rank=true&include_all_commits=true" width="100%" alt="Repository Metrics" />
+</p>
+
+#### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chama2811&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="95%" />
 </p>
 
 ---
