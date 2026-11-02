@@ -52,18 +52,18 @@ Data Science undergraduate with a passion for software development, data analyti
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </p>
 
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" alt="Development Tools" />
+</p>
+
 ### 📊 Data Science & Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
-### 🔧 Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" alt="Development Tools" />
 </p>
 
 ---
