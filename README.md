@@ -93,32 +93,23 @@ I use projects to turn what I learn into practical experience.
 **Explore my repositories:** [github.com/Chama2811](https://github.com/Chama2811?tab=repositories)
 
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <!-- Automatically updated public repository count -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChama2811&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=E879A9" alt="Public Repository Count" />
+  <img src="assets/github-stats.svg" alt="GitHub Statistics" width="100%" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Chama2811&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img src="assets/top-languages.svg" alt="Most Used Languages" width="100%" />
 
-  <!-- Most Used Languages -->
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chama2811&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <br/>
 
-  <br/><br/>
-
-  <!-- Contribution Streak -->
-  <img width="75%" src="https://streak-stats.demolab.com?user=Chama2811&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="assets/contributions.svg" alt="GitHub Contribution Activity" width="100%" />
 
 </div>
 
 ---
-
 
 ## 🌱 Currently Learning
 
