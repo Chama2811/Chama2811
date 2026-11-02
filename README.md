@@ -93,21 +93,50 @@ I use projects to turn what I learn into practical experience.
 **Explore my repositories:** [github.com/Chama2811](https://github.com/Chama2811?tab=repositories)
 
 
-## 📊 GitHub Statistics
+---
+
+<h2 align="center">📊 Github Statistics</h2>
+
+<p align="center">
+  <i>A little progress every day adds up to big results.</i>
+</p>
 
 <div align="center">
 
-  <img src="assets/github-stats.svg" alt="GitHub Statistics" width="100%" />
-
-  <br/>
-
-  <img src="assets/top-languages.svg" alt="Most Used Languages" width="100%" />
-
-  <br/>
-
-  <img src="assets/contributions.svg" alt="GitHub Contribution Activity" width="100%" />
+  <img
+    src="assets/github-stats.svg"
+    width="100%"
+    alt="GitHub Statistics"
+  />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="assets/top-languages.svg"
+    width="49%"
+    alt="Most Used Languages"
+  />
+
+  <img
+    src="assets/contributions.svg"
+    width="49%"
+    alt="Contribution Activity"
+  />
+
+</div>
+
+<br/>
+
+<p align="center">
+  <b>BUILDING • LEARNING • EXPLORING • GROWING</b>
+</p>
+
+---
+
 
 ---
 
