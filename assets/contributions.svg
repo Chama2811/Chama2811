@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190" role="img" aria-label="GitHub contribution activity">
+<rect width="100%" height="100%" rx="16" fill="#1b1b2f"/>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .title { fill: #e6edf3; font-size: 21px; font-weight: 700; }
+  .muted { fill: #9da7b3; font-size: 12px; }
+  .value { font-size: 31px; font-weight: 700; }
+  .label { fill: #e6edf3; font-size: 13px; }
+</style>
+
+<text x="30" y="38" class="title">Contribution Activity</text>
+<text x="30" y="90" class="label">Contribution calendar could not be loaded.</text>
+<text x="30" y="118" class="muted">Repository and language cards can still update normally.</text>
+</svg>
+</svg>
