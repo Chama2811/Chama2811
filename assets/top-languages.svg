@@ -9,7 +9,9 @@
 </style>
 
 <text x="30" y="42" class="title">Most Used Languages</text>
-<text x="30" y="100" class="label">No language data is available yet.</text>
+<rect x="30.00" y="70" width="700.00" height="15" fill="#e879a9"/>
+<circle cx="35" cy="121" r="5" fill="#e879a9"/>
+<text x="49" y="125" class="label">Python</text>
+<text x="355" y="125" text-anchor="end" class="muted">100.0%</text>
 <text x="30" y="282" class="muted">Based on language bytes across public repositories; not a measure of skill.</text>
-</svg>
 </svg>
