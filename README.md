@@ -98,13 +98,13 @@ I use projects to turn what I learn into practical experience.
 ### ⚡ Auto-Updating Repository Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chama2811&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=false&hide_title=true&hide_rank=true&include_all_commits=true" width="100%" alt="Repository Metrics" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chama2811&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true" width="75%" alt="Repository Metrics" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chama2811&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Chama2811&theme=tokyonight&hide_border=true&border_radius=8" width="75%" alt="Contribution Streak" />
 </p>
 
 ### 🐍 Contribution Activity
