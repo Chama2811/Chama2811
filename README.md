@@ -84,21 +84,28 @@ I use projects to turn what I learn into practical experience.
 ---
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="assets/analytics.svg" width="100%" alt="GitHub Analytics" />
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chama2811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chama2811&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### ⚡ Auto-Updating Repository Metrics
 
-<div align="center">
-  <img src="assets/metrics.svg" width="100%" alt="Repository Metrics" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chama2811&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=false&hide_title=true&hide_rank=true&include_all_commits=true" width="100%" alt="Repository Metrics" />
+</p>
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-  <img src="assets/streak.svg" width="100%" alt="Contribution Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chama2811&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
+</p>
 
 ### 🐍 Contribution Activity
 
