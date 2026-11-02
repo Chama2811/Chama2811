@@ -82,18 +82,32 @@ I use projects to turn what I learn into practical experience.
 **Explore my repositories:** [github.com/Chama2811](https://github.com/Chama2811?tab=repositories)
 
 ---
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="assets/github-stats.svg" width="100%" alt="GitHub Statistics" />
-
-<br/><br/>
-
-<img src="assets/top-languages.svg" width="100%" alt="Most Used Languages" />
-
+  <img src="assets/analytics.svg" width="100%" alt="GitHub Analytics" />
 </div>
 
+### ⚡ Auto-Updating Repository Metrics
+
+<div align="center">
+  <img src="assets/metrics.svg" width="100%" alt="Repository Metrics" />
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="assets/streak.svg" width="100%" alt="Contribution Streak" />
+</div>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Chama2811/Chama2811/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
 ### 🐍 Contribution Activity
 
 <div align="center">
